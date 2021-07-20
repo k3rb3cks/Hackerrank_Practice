@@ -29,6 +29,8 @@ vector<int> matchingStrings(vector<string> strings, vector<string> queries) {
             if(strings[j] == queries[i])
             {
                 count++;
+                
+                
             }
         }
         
